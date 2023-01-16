@@ -1,0 +1,24 @@
+{
+    "name": "awpl-helper",
+    "productName": "awpl-helper",
+    "version": "1.0.0",
+    "description": "Awpl Helper",
+    "scripts": {
+        "start": "node index"
+    },
+    "author": {
+        "name": "Shaan Singh",
+        "email": "ShaanSinghd1209@gmail.com"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "cli-width": "^4.0.0",
+        "colors": "^1.4.0",
+        "inquirer": "^8.0.0",
+        "node-fetch": "^2.6.7",
+        "pending-xhr-puppeteer": "^2.3.3",
+        "puppeteer-cluster": "^0.23.0",
+        "puppeteer-extra": "^3.3.4",
+        "puppeteer-extra-plugin-stealth": "^2.11.1"
+    }
+}
